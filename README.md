@@ -172,7 +172,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Priyanshu Sahoo**
 - GitHub: [@PriyanshuSahoo-PS98Tech](https://github.com/PriyanshuSahoo-PS98Tech)
-- Live Demo: [Digital-Analog-Style Clock](https://digital-analog-style-clock-ps98tech.netlify.app/)
+- Live Demo: [Digital Analog-Style Clock](https://digital-analog-style-clock-ps98tech.netlify.app/)
 
 ## 🙏 Acknowledgments
 
