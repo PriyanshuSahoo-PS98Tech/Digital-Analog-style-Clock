@@ -182,3 +182,24 @@ body {
     display: inline-block;
     transform: rotate(calc(-30deg * var(--i)));
 }
+
+/* ============================= */
+/*      MOBILE RESPONSIVENESS   */
+/* ============================= */
+/* Mobile screens only */
+@media (max-width: 768px) {
+    .clock {
+        scale: 1.2; /* Smaller scale for mobile */
+    }
+    
+    body {
+        padding: 10px; /* Prevent edge clipping */
+    }
+}
+
+/* Very small mobile screens */
+@media (max-width: 480px) {
+    .clock {
+        scale: 1; /* Even smaller for very small screens */
+    }
+}
